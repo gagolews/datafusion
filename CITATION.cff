@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this book as below."
+authors:
+  - family-names: Gagolewski
+    given-names: Marek
+    orcid: "https://orcid.org/0000-0003-0637-6028"
+repository-code: "https://github.com/gagolews/datafusion"
+title: "Deep R Programming"
+preferred-citation:
+    type: book
+    year: 2015
+    isbn: "978-83-63159-20-7"
+    publisher: "Institute of Computer Science, Polish Academy of Sciences"
+    title: "Data Fusion: Theory, Methods, and Applications"
+    authors:
+    -   family-names: Gagolewski
+        given-names: Marek
+        orcid: "https://orcid.org/0000-0003-0637-6028"
