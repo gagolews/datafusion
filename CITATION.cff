@@ -1,19 +1,47 @@
 cff-version: 1.2.0
 message: "Please cite this book as below."
+title: "Data Fusion: Theory, Methods, and Applications"
+repository-code: "https://github.com/gagolews/datafusion"
+abstract: >
+    A proper fusion of complex data is of interest to many researchers
+    in diverse fields, including computational statistics, computational
+    geometry, bioinformatics, machine learning, pattern recognition,
+    quality management, engineering, statistics, finance, economics, etc.
+    It plays a crucial role in: synthetic description of data processes
+    or whole domains, creation of rule bases for approximate reasoning
+    tasks, reaching consensus and selection of the optimal strategy in
+    decision support systems, imputation of missing values, data
+    deduplication and consolidation, record linkage across heterogeneous
+    databases, and clustering. This open-access research monograph
+    integrates the spread-out results from different domains using the
+    methodology of the well-established classical aggregation framework,
+    introduces researchers and practitioners to Aggregation 2.0,
+    as well as points out the challenges and interesting directions
+    for further research.
+keywords:
+  - data aggregation
+  - data fusion
+  - means
+  - t-norms
+  - spread measures
+  - multidimensional data
+  - strings
 authors:
   - family-names: Gagolewski
     given-names: Marek
     orcid: "https://orcid.org/0000-0003-0637-6028"
-repository-code: "https://github.com/gagolews/datafusion"
-title: "Data Fusion: Theory, Methods, and Applications"
+    website: "https://www.gagolewski.com"
 preferred-citation:
     type: book
     year: 2015
+    title: "Data Fusion: Theory, Methods, and Applications"
     isbn: "978-83-63159-20-7"
     doi: 10.5281/zenodo.6960306
-    publisher: "Institute of Computer Science, Polish Academy of Sciences"
-    title: "Data Fusion: Theory, Methods, and Applications"
+    publisher:
+      name: "Institute of Computer Science, Polish Academy of Sciences"
+      city: Warsaw
     authors:
-    -   family-names: Gagolewski
+      - family-names: Gagolewski
         given-names: Marek
         orcid: "https://orcid.org/0000-0003-0637-6028"
+        website: "https://www.gagolewski.com"
