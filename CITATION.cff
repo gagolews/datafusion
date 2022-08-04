@@ -10,6 +10,7 @@ preferred-citation:
     type: book
     year: 2015
     isbn: "978-83-63159-20-7"
+    doi: 10.5281/zenodo.6960306
     publisher: "Institute of Computer Science, Polish Academy of Sciences"
     title: "Data Fusion: Theory, Methods, and Applications"
     authors:
