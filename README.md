@@ -38,8 +38,10 @@ directions for further research.
 
 [Gagolewski M.](https://www.gagolewski.com),
 [*Data Fusion: Theory, Methods, and Applications*](https://raw.githubusercontent.com/gagolews/datafusion/master/datafusion.pdf),
-Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland,
-2015, 290 pp., ISBN:978-83-63159-20-7.
+Institute of Computer Science, Polish Academy of Sciences,
+Warsaw, Poland, 2015, 290 pp.,
+ISBN: 978-83-63159-20-7,
+DOI: [10.5281/zenodo.6960306](https://doi.org/10.5281/zenodo.6960306).
 
 Reviewers:
 [Gleb Beliakov](https://scholar.google.com/citations?user=_plRpWEAAAAJ) and
